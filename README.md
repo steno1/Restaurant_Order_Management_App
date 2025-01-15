@@ -72,7 +72,7 @@ Push to the branch (git push origin feature-xyz).
 Open a pull request.
 
 📝 License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License.
 
 📧 Contact
 For any issues or inquiries, you can contact me at onuprinceley@gmail.com.
