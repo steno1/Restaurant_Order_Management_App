@@ -1,4 +1,4 @@
-const Restaurant = require('./Restaurant');
+import Restaurant from './Restaurant.js';
 
 // Create a new restaurant
 const myRestaurant = new Restaurant("My Fancy Restaurant");

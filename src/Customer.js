@@ -9,4 +9,4 @@ class Customer {
     }
 }
 
-module.exports = Customer;
+export default Customer;

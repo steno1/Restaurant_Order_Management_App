@@ -1,6 +1,6 @@
-const Menu = require('./Menu');
-const Order = require('./Order');
-const Customer = require('./Customer');
+import Menu from './Menu.js';
+import Order from './Order.js';
+import Customer from './Customer.js';
 
 class Restaurant {
     constructor(name) {
