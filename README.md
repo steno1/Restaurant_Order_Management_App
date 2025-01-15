@@ -115,7 +115,7 @@ register(): Registers a new customer.
 
 📸 Screenshots (Optional)
 
-![Screenshot description](src/assets/uml-class-diagram.png)
+![Screenshot description](./src/assets/uml-class-diagram.png)
 
 
 Below is an example of how the app runs when a customer places an order:
