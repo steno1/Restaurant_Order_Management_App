@@ -69,8 +69,10 @@ For any issues or inquiries, you can contact me at onuprinceley@gmail.com.
 
 
 
-🖥️ UML Class Diagram
-Below is the UML Class Diagram representing the system design for the Restaurant Order Management System:
+🖥️ UML Class Diagram Description
+Below is the description of UML Class Diagram representing the system design for the Restaurant Order Management System: The uml diagram is located in the assets folder.
+
+![Screenshot description](./src/assets/uml-class-diagram.png)
 
 
 Explanation of the UML Diagram:
@@ -113,10 +115,6 @@ Methods:
 placeOrder(): Places an order for the customer.
 register(): Registers a new customer.
 
-📸 Screenshots (Optional)
-
-![Screenshot description](./src/assets/uml-class-diagram.png)
-
 
 Below is an example of how the app runs when a customer places an order:
 
@@ -139,7 +137,6 @@ This shows the output of placing an order for a pizza and burger for a customer.
 
 
 
-This is the complete README, including the UML diagram link and all other necessary information. Now you just need to upload your `uml-class-diagram.png` (or whichever file format you're using for the diagram) into your repository and ensure it is located correctly to be referenced in the `README.md` file.
 
 
 
