@@ -23,7 +23,7 @@ class Order {
             console.log(`- ${item.name}: $${item.price}`); // Display the item name and price
         });
         // Display the total price by calling the calculateTotal method
-        console.log(`Total: $${this.calculateTotal()}`);
+        console.log(`Total: ₦${this.calculateTotal()}`);
     }
 }
 
