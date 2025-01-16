@@ -20,7 +20,8 @@ The UML Class Diagram visually represents the core components of the system and 
 The diagram is located in the `assets` folder of the project. You can view it by navigating to:  
 `/Restaurant_Order_Management_System/src/assets/uml-class-diagram.png`
 
-![UML Class Diagram](/Restaurant_Order_Management_System/src/assets/uml-class-diagram.png)
+![UML Class Diagram](src/assets/uml-class-diagram.png)
+
 
 ### 📖 Explanation of the UML Diagram  
 
