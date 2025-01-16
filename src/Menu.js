@@ -16,7 +16,7 @@ class Menu {
         console.log('Menu:'); // Display the menu header
         // Loop through each item in the items array and display its name and price
         this.items.forEach(item => {
-            console.log(`- ${item.name}: $${item.price}`); // Log each menu item and its price
+            console.log(`- ${item.name}: ₦${item.price}`); // Log each menu item and its price
         });
     }
 }
