@@ -69,10 +69,12 @@ For any issues or inquiries, you can contact me at onuprinceley@gmail.com.
 
 
 
-🖥️ UML Class Diagram Description
-Below is the description of UML Class Diagram representing the system design for the Restaurant Order Management System: The uml diagram is located in the assets folder.
+🖥️ UML Class Diagram Description.
+Below is the description of UML Class Diagram representing the system design for
+ the Restaurant Order Management System: The uml diagram is located in the assets folder.
 
-![Screenshot description](./src/assets/uml-class-diagram.png)
+![uml_diagram_screenshot](https://raw.githubusercontent.com/steno1/Restaurant_Order_Management_App/implement-order-management-system/src/assets/uml-class-diagram.png)
+
 
 
 Explanation of the UML Diagram:
