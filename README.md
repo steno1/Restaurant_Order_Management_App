@@ -83,7 +83,7 @@ The diagram is located in the `assets` folder of the project. You can view it by
 Clone the repository to your local machine:  
 
 ```bash
-git clone https://github.com/your-username/Restaurant_Order_Management_System.git
+git clone https://github.com/steno1/Restaurant_Order_Management_App.git
 Install Dependencies
 Navigate into the project directory and install the required dependencies:
 
